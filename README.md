@@ -141,6 +141,7 @@ Model Training
 Prediction
    ↓
 Model Evaluation
+---
 # Project Structure
 NASA-Battery-Capacity-Prediction/
 │
@@ -158,8 +159,8 @@ NASA-Battery-Capacity-Prediction/
 │
 └── results/
     └── model results and visualizations
-
- ##workflow
+---
+ #workflow
 NASA Battery Dataset
         ↓
 Data Loading
